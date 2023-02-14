@@ -1,1 +1,1 @@
-Every addition to true knowledge is an addition to human power
+a script that prints the result of POWER divided by DIVIDE, followed by a new line
